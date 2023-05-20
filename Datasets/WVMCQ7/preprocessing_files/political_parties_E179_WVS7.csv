@@ -1,0 +1,563 @@
+code,label
+-5,Missing: Other
+-4,Not asked in survey
+-3,Not applicable
+-2,No answer
+-1,Don´t know
+1,No right to vote
+2,I would not vote
+3,I would cast a blank ballot; White vote
+4,None
+5,Other
+7,Null vote
+8,Independent candidate
+20001,AND: Liberal Party of Andorra
+20005,AND: Social Democratic Party
+20006,AND: Greens of Andorra
+20007,AND: We can of Andorra
+20008,AND: Democrats for Andorra
+20009,AND: Social Democracy and Progress
+32001,ARG: Citizen's Unity Cristina Fernandez de Kirchner
+32009,ARG: Together for Change Macri
+32012,ARG: Justicialist [Peronist] Party Daniel Scioli Florencio Randazzo
+32101,ARG: Front for Victory
+32105,ARG: Republican Proposal María Eugenia Vidal
+36001,AUS: Australian Labor Party
+36002,AUS: Liberal Party
+36003,AUS: Nationalist Party of Australia
+36004,AUS: Australia Greens
+36005,AUS: Australian Democrats
+36008,AUS: One Nation Party
+36009,AUS: Family First Party
+36010,AUS: Christian Democratic Party
+36011,AUS: Shooters Fishers and Farmers Party
+50001,BGD: Bangladesh Awami League
+50002,BGD: Bangladesh Nationalist Party
+50003,BGD: Jatiya Party (Manju)
+50004,BGD: Bangladesh Jamaat-e-Islami
+50009,BGD: Islamic Unity Front
+51002,ARM: Armenian Revolutionary Federation
+51009,ARM: Republican Party of Armenia
+51027,ARM: Prosperous Armenia
+51031,ARM: Amenian National Congress
+51035,ARM: Civil Contract
+51036,ARM: Bright Armenia
+51037,ARM: Citizen’s Decision
+51038,ARM: Sasna Tsrer Pan-Armenian Party
+51039,ARM: Homeland Party
+51040,ARM: National Agenda Party
+51041,ARM: Armenian Alliance
+51042,ARM: Shirinyan-Babadjanyan Democrats Union
+51043,ARM: Republic Party
+68001,BOL: Movement for Socialism
+68002,BOL: National Unity Front
+68003,BOL: Democrat Social Movement
+68004,BOL: Sovereignty and freedom
+68005,BOL: Revolutionary Nationalist Movement
+76001,BRA: Brazilian Democratic Movement
+76002,BRA: Workers' Party
+76003,BRA: Brazilian Social Democracy Party
+76004,BRA: Democratic Labour Party
+76005,BRA: Progressive Party / Brazilian Progressive Party (PPB)
+76009,BRA: Communist Party of Brazil
+76015,BRA: Social Christian Party
+76026,BRA: We can
+76028,BRA: Sustainability Network
+76029,BRA: Socialism and Liberty Party
+104001,MMR: National League for Democracy
+104002,MMR: Union Solidarity and Development Party
+104003,MMR: Arakan National Party
+104004,MMR: Shan Nationalities Democratic Party
+104005,MMR: Ta'ang National Party
+124001,CAN: Liberal Party
+124002,CAN: Conservative Party
+124003,CAN: New Democratic Party
+124006,CAN: Bloc Quebecois
+124007,CAN: Green Party
+152001,CHL: Independent Democratic Union
+152002,CHL: National Renewal
+152004,CHL: Christian Democratic Party
+152005,CHL: Radical Party of Chile
+152006,CHL: Party for Democracy
+152007,CHL: Socialist Party of Chile
+152008,CHL: Humanist Party
+152009,CHL: Communist Party of Chile
+152016,CHL: Progressive Party
+152023,CHL: Equality Party
+152024,CHL: Liberal Party of Chile
+152025,CHL: Green Ecologist Party
+152026,CHL: Broad Social Movement
+152027,CHL: Citizen Lek Party of Chile
+152029,CHL: Political Evolution
+152030,CHL: Democratic Revolution
+152031,CHL: Amplitude
+158001,TWN: Nationalist Party
+158002,TWN: Democratic Progressive Party
+158003,TWN: Chinese / New Party
+158013,TWN: New Power Party
+158015,TWN: People First Party
+158020,TWN: Non-partisan & Non-Partisan Solidarity Union
+158021,TWN: Green Party Taiwan
+158022,TWN: Social Democratic Party
+158023,TWN: Minkuotang
+158024,TWN: The pan-Blue coalition
+158025,TWN: The pan-Green coalition
+170001,COL: Colombian Conservative Party
+170002,COL: Colombian Liberal Party
+170003,COL: Social Party of National Unity
+170004,COL: Radical Change
+170005,COL: Partido Independiente de Renovación Absoluta
+170006,COL: Green Alliance
+170008,COL: Alternative Democratic Pole
+170020,COL: Progressive Movement (Colombia)
+170021,COL: Democratic Center Party
+196001,CYP: Progressive Party of Working People
+196002,CYP: Democratic Rally
+196003,CYP: Democratic Alignment
+196004,CYP: Movement of Social Democrats
+196006,CYP: Ecological and Environmental Movement
+196009,CYP: National Unity Party
+196010,CYP: The Democratic Party
+196011,CYP: Republican Turkish Party
+196015,CYP: Rebirth Party
+196016,CYP: United Cyprus Party
+196021,CYP: The National Popular Front
+196025,CYP: The Communal Democracy Party
+196026,CYP: Democratic Alignment
+196027,CYP: The Solidarity Movement
+196028,CYP: Citizens' Alliance
+196029,CYP: Animal Party Cyprus
+196031,CYP: The People's Party
+218001,ECU: PAIS Alliance
+218004,ECU: Democratic Lek
+218006,ECU: Patriotic Society Party
+218008,ECU: Ecuadorian
+218014,ECU: CREO movement
+218015,ECU: Suma More Action United Society Movement
+218018,ECU: Ecuador Force
+218019,ECU: Warrior Wood Civic Movement
+218020,ECU: Social Christian Party [Movement]
+231005,ETH: Amhara National Democratic Movement
+231028,ETH: Prosperity Party
+231029,ETH: Ethiopian Citizens for Social Justice
+231030,ETH: Oromo Liberation Front
+231032,ETH: Ethiopian Social-Democratic Party
+231033,ETH: Tigrayan People's Liberation Front
+231034,ETH: Ogaden National Liberation Front
+276001,DEU: Christian Democratic Union of Germany; Christian Social Union in Bavaria
+276002,DEU: Social Democratic Party
+276003,DEU: Free Democratic Party 
+276004,DEU: Alliance 90/The Greens
+276033,DEU: Alternative for Germany 
+276034,DEU: The Lek
+300002,GRC: New Democracy
+300003,GRC: Communist Party of Greece
+300101,GRC: Independent Greeks
+300102,GRC: Front of the Greek Anticapitalist Lek
+300103,GRC: Democratic Alignment
+300104,GRC: Union of Centrists
+300106,GRC: Popular Unity
+300108,GRC: Course of Freedom
+300109,GRC: The River
+300110,GRC: Coalition of the Radical Lek
+300111,GRC: People’s Association / Golden Dawn
+320002,GTM: National Unity of Hope
+320006,GTM: Come on or Let's go
+344001,HKG: Hong Kong Association for Democracy and People's Livelihood
+344003,HKG: Civic Party
+344004,HKG: Democratic Alliance for the Betterment and Progress of Hong Kong
+344005,HKG: Democratic Party
+344006,HKG: League of Social Democrats
+344009,HKG: Hong Kong Federation of Trade Unions
+344012,HKG: Labour Party
+344013,HKG: Liberal Party
+344015,HKG: Neo Democrats
+344017,HKG: New People's Party
+344018,HKG: Neighbourhood and Worker's Service Centre
+344019,HKG: People Power
+344027,HKG: Civic Passion
+344028,HKG: Youngspiration
+344029,HKG: Demosistō
+344030,HKG: Business and Professionals Alliance for Hong Kong
+360001,IDN: Democratic Party
+360002,IDN: Golkar Party - Party of Functional Groups
+360003,IDN: United Development Party
+360004,IDN: National Awakening Party
+360005,IDN: National Mandate Party
+360007,IDN: Indonesian Democratic Party of Struggle
+360011,IDN: Working Party
+360012,IDN: Great Indonesia Movement Party
+360013,IDN: Change Indonesia Movement Party
+360014,IDN: People's Conscience Party
+360015,IDN: Prosperous Justice Party
+360017,IDN: Nasdem Party
+360018,IDN: Indonesian Unity Party
+360019,IDN: Indonesian Solidarity Party
+364011,IRN: Fundamentalists
+364012,IRN: Reformists
+368003,IRQ: Kurdistan Democratic Party
+368004,IRQ: Patriotic Union of Kurdistan
+368005,IRQ: Iraqi Islamic Party
+368007,IRQ: Iraqi National Accord
+368008,IRQ: Iraqi Communist Party
+368021,IRQ: Iraqi Turkmen Front
+368041,IRQ: Victory Alliance
+368042,IRQ: State of Law Coallition
+368043,IRQ: Fatah Alliance
+368044,IRQ: Uprightness / chest
+368045,IRQ: Asa'ib Ahl al-Haq
+368046,IRQ: National Wisdom Movement
+368048,IRQ: National Reform Trend
+368050,IRQ: United for Iraq
+368051,IRQ: Civil Society for Reform
+368054,IRQ: Khaled Al Obeidi
+368055,IRQ: Virtue
+368056,IRQ: Hizb allah
+368059,IRQ: The people of reform / Faik Sheikh Ali and Sharaouq Abayji
+368061,IRQ: The Arab Project in Iraq / Khamis Al-Hanjar
+368062,IRQ: The solution / Mohammed and Jamal Karbouli
+368066,IRQ: Coalition for Democracy and Justice
+368067,IRQ: Kuran / Yousef Mohammed
+368068,IRQ: The New Generation/SASHWAR ABD ALWAHID
+368069,IRQ: Kurdistan Islamic Party
+368073,IRQ: Member of Parliament Ahmed Al - Jubouri
+368077,IRQ: Turkmen People's Party
+392001,JPN: Liberal Democratic Party
+392003,JPN: Clean Government Party / New Komeito
+392004,JPN: Japan Communist Party
+392014,JPN: Social Democratic Party / Old Japan Socialist Party
+392025,JPN: Democratic Party for the People
+392026,JPN: Japan Innovation Party
+392027,JPN: Constitutional Democratic Party of Japan 
+398003,KAZ: Ak Zhol Democratic Party
+398004,KAZ: Kazakhstani Social Democratic Party Auyl
+398005,KAZ: Communist People's Party of Kazakhstan
+398008,KAZ: Nur Otan
+398009,KAZ: Nationwide Social Democratic Party
+398011,KAZ: Cohesion party
+404001,KEN: Amani National Congress ANC Amani National Congress
+404002,KEN: Democratic Party of Kenya DP Democratic Party
+404003,KEN: Forum for the Restoration of Democracy–Kenya FORD–Kenya Forum for the Restoration of Democracy–Kenya (FORD
+404004,KEN: Forum for the Restoration of Democracy–People FORD-Asili Forum for the Restoration of Democracy–People
+404005,KEN: Jubilee Party of Kenya  Jubilee Jubilee Party of Kenya
+404006,KEN: Kenya African National Union  KANU Kenya African National Union
+404007,KEN: Labour Party of Kenya LPK Labour Party of Kenya
+404008,KEN: Maendeleo Chap Chap Party MCC Maendeleo Chap Chap Party
+404009,KEN: National Rainbow Coalition-Kenya NARC-Kenya National Rainbow Coalition-Kenya
+404010,KEN: National Super Alliance NASA National Super Alliance
+404011,KEN: Orange Democratic Movement ODM Orange Democratic Movement
+404012,KEN: People's Empowerment Party PEP People's Empowerment Party
+404013,KEN: Thirdway Alliance Party of Kenya Thirdway Alliance Party of Kenya
+404014,KEN: United Democratic Alliance UDA United Democratic Alliance
+404015,KEN: United Democratic Forum Party UDFP United Democratic Forum Party
+404016,KEN: United Democratic Movement UDM United Democratic Movement
+404017,KEN: Unity Party of Kenya UPK Unity Party of Kenya
+404018,KEN: Wiper Democratic Movement- Kenya WDM-K Wiper Democratic Movement- Kenya
+410001,KOR: Liberty Korea Party - Grand National Party
+410002,KOR: Democratic Party
+410008,KOR: People's Party
+410009,KOR: Bareun Party
+410010,KOR: Justice Party
+417002,KGZ: Respublika - Ata-Zhurt
+417006,KGZ: Respublika
+417009,KGZ: White Falcon
+417010,KGZ: Contemporary
+417012,KGZ: Homeland Security
+417013,KGZ: United Kyrgyzstan
+417018,KGZ: Dignity Party
+417038,KGZ: Social Democratic Party of Kyrgyzstan
+417039,KGZ: Socialist Party 'Fatherland'
+417105,KGZ: Development and Progress Party
+417106,KGZ: Political Party of State Unity and Patriotism
+417111,KGZ: Kyrgyzstan Party
+422001,LBN: Free Patriotic Movement
+422002,LBN: The Lebanese Forces
+422003,LBN: The Future Movement
+422004,LBN: Amal Movement
+422005,LBN: Hezbollah
+422006,LBN: Al Hamanq
+422007,LBN: Syrian National Social Party
+422009,LBN: The Marada Movement
+422010,LBN: Lebanese Resistance Regiments
+422011,LBN: Lebanese Communist Party
+422015,LBN: Armenian Revolutionary Federation
+422016,LBN: Popular Bloc
+422017,LBN: The Arab Current
+422018,LBN: Progressive Socialist Party
+422019,LBN: Islamic Group
+422020,LBN: Union Party
+422021,LBN: Popular Nasserist Organization
+422022,LBN: The future of determination and happiness
+422024,LBN: Syrian National Party
+422026,LBN: Enterprise Society
+422028,LBN: Democratic Dialogue Party
+434001,LBY: Justice and Construction Party
+434002,LBY: National Forces Alliance
+434003,LBY: National Front Party
+434004,LBY: Taghyeer Party Libya
+446001,MAC: Progress Promotion Union
+446002,MAC: Democratic Prosperous Macau Association
+446003,MAC: Civic Watch
+446004,MAC: New Hope
+446005,MAC: New Macau Progressives
+446006,MAC: Macau Citizens’ Development Association
+446007,MAC: Macau United Citizens' Association
+446008,MAC: Powers of Political Thought
+446009,MAC: Alliance for a Happy Home
+446010,MAC: Citizens’ Power
+446011,MAC: New Democratic Macau Association
+446012,MAC: New Macau Development Union
+446013,MAC: Synergy Power
+446014,MAC: Union for Development
+446015,MAC: Ou Mun Kong I
+446016,MAC: Alliance for Change
+446017,MAC: United Citizens for Building Macau Association
+446018,MAC: Macau-Guangdong Union
+446019,MAC: The Aurora of Grassroots
+446020,MAC: Mutual Help Grassroots
+446021,MAC: Association of Macau Activism for Democracy
+446022,MAC: Pearl Horizon Buyers’ Rights Defence Union
+446023,MAC: Front Line of Casino Workers
+458004,MYS: Socialist Party of Malaysia
+458005,MYS: National Front
+458006,MYS: Alliance of Hope
+458007,MYS: Ideas of Prosperity
+458008,MYS: United Sabah Alliance
+458009,MYS: Sabah Heritage Party
+462001,MV: Adhaalath Party
+462002,MV: Maldives Democratic Party (MDP)
+462003,MV: Dhivehi Rayyithunge Party (DRP)
+462004,MV: Jumhooree Party (JP)
+462005,MV: Peaoples National Congress (PNC)
+462006,MV: Progressive Party of Maldives (PPM)
+484001,MEX: Institutional Revolutionary Party
+484002,MEX: National Action Party
+484003,MEX: Party of the Democratic Revolution
+484004,MEX: Labor Party
+484005,MEX: Ecologist Green Party of Mexico
+484017,MEX: Convergence / Citizens' Movement
+484018,MEX: New Alliance Party
+484022,MEX: National Regeneration Movement
+484023,MEX: Social Encounter Party
+496001,MNG: Mongolian People's Party
+496002,MNG: Democratic Party
+496003,MNG: Mongolian People's Revolutionary Party
+496004,MNG: Civil Will–Green Party
+496005,MNG: National Labor Party
+504001,MAR: Socialist Union of Popular Forces USFP Union Socialiste des Forces Populaires -- Al-Ittihad Al-Ishtirakiy Lilqawat
+504002,MAR: Istiqlal Party PI Hizb Al-Istiqlal -- Parti de l'Istiqlal
+504003,MAR: Popular Movement
+504004,MAR: National Rally of Independents
+504006,MAR: Party of Progress and Socialism
+504007,MAR: Constitutional Union
+504009,MAR: Justice and Development Party
+504011,MAR: Authenticity and Modernity Party
+504013,MAR: Moroccan Liberal Party
+504014,MAR: The Party of the Civilizational Alternative
+504015,MAR: The Party of Renaissance and Virtue
+504016,MAR: Alliance of the Lek Federation
+528002,NLD: Christian Democratic Appeal
+528003,NLD: People´s Party for Freedom and Democracy
+528004,NLD: Democrats 66
+528013,NLD: Party for Freedom
+528014,NLD: Christian Union Party
+528015,NLD: Party for the Animals
+528021,NLD: Green Lek
+528022,NLD: Socialist Party
+528023,NLD: Labour Party
+528025,NLD: Reformed Political Party
+528027,NLD: Forum for Democracy
+528028,NLD: Juiste Antwoord 2021
+528029,NLD: DENK
+528030,NLD: Interest of the Netherlands
+528031,NLD: Farmer–Citizen Movement
+528032,NLD: BIJ1
+528033,NLD: Volt Europe
+554001,NZL: ACT New Zealand
+554004,NZL: Green Party of Aotearoa New Zealand
+554005,NZL: New Zealand Labour Party
+554006,NZL: New Zealand National Party
+554007,NZL: New Zealand First Party
+554009,NZL: Maori Party
+554013,NZL: New Conservative Party
+554014,NZL: The Opportunities Party
+558001,NIC: Sandinista National Liberation Front
+558002,NIC: Nicaraguan Liberal Alliance
+558003,NIC: Independent Liberal
+558004,NIC: Constitutionalist Liberal Party
+558005,NIC: Citizens for Freedom
+566005,NGA: All Progressive Grand Alliance
+566012,NGA: Democratic People's Party
+566021,NGA: All Progressives Congress
+566022,NGA: Justice Party
+566023,NGA: Peoples Mandate Party
+566035,NGA: National Conscience Party
+566036,NGA: Accord Party
+586001,PAK: Pakistan People’s Party
+586002,PAK: Pakistan Muslim League Nawaz Sharif faction
+586003,PAK: Pakistan Muslim League
+586007,PAK: Movement for Justice
+586016,PAK: Jamat-e-Islami
+586017,PAK: Baloch National Party
+586019,PAK: Pashtunkhwa Milli Awami Party
+586025,PAK: Muttahida Majlis-e-Amal
+586026,PAK: Awami National Party
+586027,PAK: Muttahida Qaumi Movement
+586028,PAK: Here-I-Am Prophet Muhammad SAW Movement Pakistan
+586029,PAK: Baloch National Party
+586030,PAK: Assembly of Islamic Clerics
+586033,PAK: Muttahida Qaumi Movement-London
+586034,PAK: Muttahida Qaumi Movement-Pakistan
+604002,PER: American Popular Revolutionary Alliance
+604006,PER: Popular Action
+604007,PER: Democratic Party 'We Are Peru'
+604017,PER: Christian People's Party
+604021,PER: National Restoration
+604023,PER: Peruvian Nationalist Party
+604026,PER: Popular Force
+604027,PER: National Solidarity Party
+604035,PER: All for Peru
+604036,PER: Alliance for the Progress of Peru
+604039,PER: Direct Democracy
+604040,PER: Broad Front
+604042,PER: New Peru
+604044,PER: Peru Secure Homeland
+604046,PER: Peruvians for Change
+604047,PER: Podemos Peru
+604048,PER: Purple Party
+608001,PHL: Lakas-Christian Muslim Democrats
+608002,PHL: Liberal Party of the Philippines
+608003,PHL: Nacionalista Party
+608004,PHL: Nationalist People’s Coalition
+608005,PHL: "Philippine Democratic Party–People's Power"
+608013,PHL: "Democratic Action"
+608014,PHL: New Society Movement
+608017,PHL: Lakas–Christian Muslim Democrats
+608034,PHL: National Unity Party
+608035,PHL: United Nationalist Alliance
+630001,PRI: New Progressive Party
+630002,PRI: Popular Democratic Party
+630003,PRI: Puerto Rican Independence Party
+630004,PRI: Workig People's Party
+642006,ROU: Democratic Alliance of Hungarians in Romania
+642007,ROU: Greater Romania Party
+642008,ROU: Social Democratic Party
+642060,ROU: National Liberal Party
+642065,ROU: Union Save Romania
+642066,ROU: Alliance of Liberals and Democrats
+642067,ROU: People´s Movement Party
+642068,ROU: Altceva
+643002,RUS: Communist Party of the Russian Federation
+643003,RUS: Liberal Democratic Party of Russia
+643022,RUS: Russian Communist Workers' Party of the Communist Party of the Soviet Union
+643030,RUS: Civilian Power
+643032,RUS: United Russia
+643033,RUS: Patriots of Russia
+643034,RUS: Just Russia
+643037,RUS: Russian United Democratic Party 'Yabloko'
+643040,RUS: Party of People's Freedom
+643041,RUS: Party of Growth
+643042,RUS: Russian Ecological Party 'The Greens'
+643043,RUS: Civic Platform
+643044,RUS: Rodina or Motherland-National Patriotic Union
+643045,RUS: Russian Party of Pensioners for Social Justice
+688001,SRB: Democratic Party
+688002,SRB: Serbian Progressive Party
+688003,SRB: Socialist Party of Serbia
+688004,SRB: Serbian Radical Party
+688005,SRB: Democratic Party of Serbi
+688006,SRB: Serbian Movement Dveri
+688007,SRB: League of Social Democrats of Vojvodina
+688008,SRB: Liberal Democratic Party
+688009,SRB: Social Democratic Party
+716002,ZWE: Movement For Democratic Change – Tsvangirai
+716010,ZWE: Movement for Democratic Change
+716015,ZWE: FreeZim Congress
+716016,ZWE: Rebuilding Zimbabwe Party
+716017,ZWE: 1980 Freedom Movement Zimbabwe
+716018,ZWE: United Democratic Front
+716019,ZWE: Republican Party
+716020,ZWE: Zimbabwe Partnership for Prosperity
+716021,ZWE: National Constitutional Assembly
+716022,ZWE: Coalition of Democrats
+716023,ZWE: Build Zimbabwe Alliance
+716024,ZWE: People's Progressive Party
+716025,ZWE: United Democracy Movement
+716026,ZWE: National Alliance of Patriotic and Democratic Republicans
+716027,ZWE: Zimbabwe African National Union – Patriotic Front
+716028,ZWE: Alliance for People's Agenda
+716029,ZWE: Bethel Christian Party
+716031,ZWE: New Patriotic Front
+716032,ZWE: National Patriotic Front
+716033,ZWE: United Democratic Alliance
+716034,ZWE: Democratic Opposition Party
+762001,TJK: People's Democratic Party of Tajikistan
+762002,TJK: Democratic Party
+762003,TJK: Party of Economic Reform
+762004,TJK: Socialist Party of Tajikistan
+762005,TJK: Communist Party of Tajikistan
+762006,TJK: Social Democratic Party
+764001,THA: Democrat Party
+764005,THA: For Thais Party
+764006,THA: Puea Pandin Party
+764008,THA: Thai Pride Party
+764010,THA: Thais Love Thais Party
+788007,TUN: Current of Love
+788011,TUN: Tunisian Aspiration(s)
+788012,TUN: Free Patriotic Union
+788013,TUN: National Destourian Initiative
+788014,TUN: Republican Party
+788015,TUN: Democratic Current
+788016,TUN: Free Destourian Party
+788017,TUN: Tunisian Alternative
+788019,TUN: Movement Party / Tunisia Will Movement
+788020,TUN: Popular Front for the Realization of the Objectives of the Revolution
+788022,TUN: Call of Tunisia
+788023,TUN: Renaissance Party 'Ennahdha'
+788024,TUN: Vive la Tunisie
+792002,TUR: Republican People's Party 
+792005,TUR: Peoples' Democratic Party
+792006,TUR: Nationalist Movement Party
+792008,TUR: Justice and Development Party
+792050,TUR: The Good Party
+792051,TUR: Felicity Party
+804001,UKR: Agrarian Party of Ukraine
+804071,UKR: All-Ukrainian Union "Svoboda"
+804101,UKR: All-Ukrainian Union "Fatherland"
+804108,UKR: Civil position
+804204,UKR: Voice
+804206,UKR: Trust the deeds
+804207,UKR: European solidarity
+804208,UKR: "Independence"
+804209,UKR: Union "Self Reliance"
+804210,UKR: Opposition platform - for life
+804211,UKR: Opposition Block
+804212,UKR: Party of Shariy
+804213,UKR: Patriot of Ukraine
+804214,UKR: Radical Party of Oleh Lyashko
+804215,UKR: Movement of New Forces
+804216,UKR: Strength and Honor
+804217,UKR: The “People's Force” Syla Lyudey Party
+804218,UKR: Servant of the people
+804219,UKR: Ukrainian Strategy Party
+818002,EGY: Delegation Party (Wafd)
+818103,EGY: Arab Democratic Nasserist Party
+818127,EGY: Egyptian Social Democratic Party
+818141,EGY: Liberal Egyptian Party
+818159,EGY: Workers Democratic Party
+818160,EGY: Democratic Peace Party
+818161,EGY: Nation's Future Party
+818164,EGY: Homeland Party
+818165,EGY: Strong Egypt party
+818166,EGY: Freedom and Justice Party
+818167,EGY: Homeland Defenders Party
+840001,USA: Republican Party
+840002,USA: Democratic Party
+840004,USA: Libertarian
+840006,USA: Green Party of the United States
+862002,VEN: Accion Democratica: AD
+862006,VEN: Primero Justicia
+862010,VEN: Un nuevo tiempo
+862031,VEN: United Socialist Party of Venezuela
+862032,VEN: Popular Will
+862033,VEN: Progressive Advance
