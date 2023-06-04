@@ -1,0 +1,1 @@
+{"xp_name": "cv", "gradient_accumulation_steps": 8, "learning_rate": 1e-05, "logging_strategy": "steps", "loss": "torch.nn.BCELoss()", "model_name": "roberta-base", "num_train_epochs": 20, "warmup_ratio": 0.06, "_hash": 259070947445294035, "_timestamp": 1685894689.0163305, "_runtime": 1.8658983707427979, "_step": 0, "_wandb": {"runtime": 17}}

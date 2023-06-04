@@ -1,0 +1,6 @@
+Some weights of the model checkpoint at roberta-base were not used when initializing RobertaForMultipleChoice: ['lm_head.layer_norm.bias', 'lm_head.dense.weight', 'lm_head.decoder.weight', 'lm_head.bias', 'lm_head.dense.bias', 'lm_head.layer_norm.weight']
+- This IS expected if you are initializing RobertaForMultipleChoice from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing RobertaForMultipleChoice from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Some weights of RobertaForMultipleChoice were not initialized from the model checkpoint at roberta-base and are newly initialized: ['classifier.bias', 'classifier.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+cmd_args: {'ip=127.0.0.1': '--stdin=9003', 'control=9001': '--hb=9000', 'Session.signature_scheme="hmac-sha256"': '--Session.key=b"ff891647-68e7-4edb-bc62-da64c66d2c22"', 'shell=9002': '--transport="tcp"', 'iopub=9004': '--f=c:\\Users\\Quent\\AppData\\Roaming\\jupyter\\runtime\\kernel-v2-37092diroWIUquvN1.json'}

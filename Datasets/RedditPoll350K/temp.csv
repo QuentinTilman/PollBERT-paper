@@ -1,0 +1,570 @@
+,demoA,demoB,p_value,question,year
+4,male,female,7.348708402365394e-15,Do you play video games?,2022
+12,male,female,0.006047037718467504,"In your experience, are the girls you know cute when they're mad at someone/something?",2022
+15,male,female,0.036976596407429736,Would you kiss someone who just gave u oral sex?,2022
+17,male,female,2.0031820495055478e-11,Should men’s bathrooms have baby changing stations?,2022
+20,male,female,2.9043980834347037e-05,Do you have a partner?,2022
+34,male,female,0.002760738020259367,do you think women should have the right to be fully topless freely like men?,2022
+35,male,female,0.016052616408112556,Would your romantic partner being bald be a deal-breaker for you?,2022
+47,male,female,0.0058815166989020645,Would you dáte an obese person?,2022
+48,male,female,0.000591311753760517,Can you walk in stiletto heels?,2022
+60,male,female,0.04242752419381197,Are dimples attractive?,2022
+65,male,female,0.012876334391038656,"When (considering) complimenting someone of the opposite gender on their appearance, do you worry how it will come off?",2022
+69,male,female,1.8286679038087192e-06,Is it rude to tell someone that they look better without makeup? Updated,2022
+72,male,female,0.00303652645761173,do you believe in angel numbers?,2022
+83,male,female,1.4285353717629644e-05,Do you have a foot fetish?,2022
+91,male,female,3.06579824614951e-08,Do you think that Roe vs. Wade should be overturned?,2022
+98,male,female,1.3223645428209465e-174,Would you like makeup becoming a norm for men to wear ?,2022
+104,male,female,0.002737754134819085,Would you commit a crime if you had a 100% chance of getting away with it?,2022
+109,male,female,8.894169354652397e-06,Do you follow women's sports?,2022
+116,male,female,1.4246509217582897e-18,Do you often worry that you will be attacked while in public?,2022
+131,male,female,0.00038968342107379984,"If your whole country had to rate your appearance out of 10, would you want to know the average score you received?",2022
+132,male,female,7.869973948162628e-54,Do you feel safe walking around your neighborhood in the middle of the night?,2022
+135,male,female,2.330508503314996e-06,Would you care to be pretty in a world you live in alone?,2022
+136,male,female,0.049916979226901165,Are you straight? (sexuality),2022
+141,male,female,1.4115646471624006e-05,Do you think it's healthy for couples to take separate vacations every now and then? Explain in the comments,2022
+143,male,female,0.0030536627726142174,Do you enjoy driving?,2022
+144,male,female,4.411540435622444e-78,Do you believe the stereotype that men are better drivers than women?,2022
+158,male,female,0.006047321368110942,Do you automatically assume that a commenter/poster on Reddit is male?,2022
+160,male,female,0.004528093983612309,"Is someone being ""too nice"" a red flag for you when looking for a romantic partner?",2022
+161,male,female,0.017696229285467067,Have you ever had sex before?,2022
+162,male,female,0.0019983829447578717,Do you think that fat girls are hot?,2022
+163,male,female,0.018953537161600476,Do you like wearing dresses or tuxedos?,2022
+177,male,female,0.025464772673473614,Is it normal to be 17 (turning 18 this year) and not have had a first kiss or a girlfriend/boyfriend?,2022
+180,male,female,0.01239876817316725,Do you believe nice guys finish last?,2022
+199,male,female,0.014097094634919002,Do you own any sex toy?,2022
+202,male,female,0.00018242660467914358,Do you consider yourself an emotional person?,2022
+203,male,female,0.03912911863225679,"The spouse of your dreams wants to sign a prenup to protect all of his valuable assets and ensure the marriage is purely based off love, what is your response?",2022
+205,male,female,0.021216556537967172,Do you think you’re smart?,2022
+206,male,female,1.954878928070592e-21,In your opinion is it acceptable to break up with someone due to a high body count?,2022
+211,male,female,1.842392292451612e-05,Can you do the splits?,2022
+217,male,female,0.029700567138145274,Have you ever tasted your own ejaculation out of curiosity?,2022
+219,male,female,0.00278422986962337,Have you ever masturbated when reading something erotic?,2022
+222,male,female,3.2077652176411445e-05,Do you send screenshots of arguments/conversations to your friends/family specifically to make sure you’re not the one being a jerk?,2022
+227,male,female,0.0031438617539988043,Is having no social life a red flag for you ?,2022
+231,male,female,6.038326748479588e-05,Is it unethical to marry someone for their money?,2022
+232,male,female,1.4011138691203336e-06,Have you ever been attracted to the same gender as yourself?,2022
+236,male,female,8.81196831257355e-06,Do you think you have neat handwriting?,2022
+237,male,female,0.044119336270448554,Did you know that many men’s rooms have baby changing tables?,2022
+248,male,female,8.682048125474087e-33,Do you shave your legs?,2022
+251,male,female,1.2063059840716047e-10,Are you pregnant right now?,2022
+259,male,female,0.001325902315479864,"Your country is going to war, are you fighting? (Let’s assume men and women can fight sin war, maybe in some countries women not allowed)",2022
+260,male,female,0.007200091164939835,Do you want to have kids?,2022
+262,male,female,0.003707031719674049,"If someone had a personality that you liked and a lot of money but still living with their parents at 30, would that stop you from dating them?",2022
+271,male,female,0.018395995257216545,Are you homosexual ?,2022
+272,male,female,2.54320897304887e-14,Do you sleep with a stuffed animal?,2022
+281,male,female,3.230270216778923e-79,Should urinals be removed from restrooms and replaced with more toilet stalls?,2022
+282,male,female,0.00036528697097377733,Do you go to therapy?,2022
+290,male,female,0.0009996963962738174,Do you have a testicle or a boob hanging lower than the other?,2022
+293,male,female,1.9944731478353543e-08,Does your first name end with the letter “a” ?,2022
+303,male,female,0.02619536486450533,"Do you think a class in high school on how to escape dangerous situations (like locked in room, tied up, kidnapped, etc) is a good idea?",2022
+308,male,female,0.009610066962144963,"Is calling a girl/woman a ""chick"" derogatory/rude?",2022
+309,male,female,6.256510508902661e-40,Do you feel safe walking around a big citiy by yourself at night?,2022
+310,male,female,0.014498218308988526,Did/do you have an abusive and aggressive father?,2022
+312,male,female,0.004429097566238471,Have you ever struggled with your body image or developed an eating disorder?,2022
+316,male,female,0.013626238106499414,Have you ever tried to deepthroat a banana/popsicle/cucumber/anything with a suggestive shape?,2022
+317,male,female,0.0003447297520875926,"In all honesty, does body count matter to you when considering a partner/spouse?",2022
+322,male,female,0.04437419658117099,Do you feel too fat?,2022
+323,male,female,0.0020266502830462124,Do you think people these days are way to sensitive?,2022
+326,male,female,0.006565090603939959,Do you suffer from an eating disorder?,2022
+329,male,female,7.652972755619264e-06,Have you ever been to therapy before?,2022
+332,male,female,1.8592125775892312e-07,Have you ever taken a nude-selfie?,2022
+342,male,female,0.000366344348653095,Have you ever been a victim of sexual assault?,2022
+345,male,female,5.3770878956275034e-05,Do you have tiktok ?,2022
+346,male,female,0.004959865861383944,Is the statement “some women are emotionally unstable” offensive?,2022
+348,male,female,0.0246351690292203,Do dishes need to soak in the sink before being washed?,2022
+354,male,female,0.017148818948234796,Do you think a beard or any facial hair makes a man more handsome?,2022
+356,male,female,0.03333220648537995,Would the world be a better place if there was only one sex?,2022
+357,male,female,0.024373368961318642,would you find comfortable to ask your boyfriend to marry you?,2022
+359,male,female,3.6422344767273224e-06,Do you usually wash your genitals after peeing?,2022
+364,male,female,0.00010928100767450085,Do you think guys with mustaches are attractive? [Read Desc],2022
+373,male,female,2.388001278762168e-59,Do you agree with traditional gender roles?,2022
+380,male,female,0.009301245701061563,Do you like watching porn?,2022
+389,male,female,0.028774569671315236,Would you consider yourself arrogant regarding your own intelligence?,2022
+392,male,female,0.0007982672758800051,would you changed your gender before being born if u were able to?,2022
+394,male,female,0.002128389985472252,Are you willing to defend your country by going to the military in case of war?,2022
+395,male,female,0.005364469629025479,Do you think it's in women's nature to want to take care of something/someone?,2022
+400,male,female,0.007196521584973763,"If men are required to get a short haircut in the military, should women in the military have to get the same haircut?",2022
+405,male,female,1.139466460989597e-12,Have you gotten asked out before?,2022
+406,male,female,1.8562099789694247e-19,Are you part of the LGBTQIA+?,2022
+414,male,female,7.974764226967103e-05,Could you beat an average MAN in a street fight?,2022
+424,male,female,0.009872262187877177,Do you believe that young males are the new oppressed minority?,2022
+430,male,female,0.00016515693605951168,Have you ever gotten a weirdly sexual or creepy comment from a family member?,2022
+441,male,female,3.064026612099722e-05,Do you want to take your partner's surname after marriage?,2022
+444,male,female,0.008905074184347609,have no more money worries in life but you are not allowed to have sex anymore. Would you do it?,2022
+445,male,female,5.629942423477255e-09,Would you be comfortable seeing a doctor of the opposite gender?,2022
+451,male,female,0.00010279369841075122,Would you approve of a law that would allow for a man to walk away from being a father before the baby is born no strings attached ?,2022
+456,male,female,0.0004415329506837922,Do you wash your hands when you go pee?,2022
+458,male,female,3.692400389796558e-22,"If your legs were very very hairy, would you wax/shave them?",2022
+462,male,female,0.029831048412889943,Do you form opinions or alter interaction and engagement with people based on their zodiac sign?,2022
+468,male,female,6.288507646499544e-06,Do you feel safe when walking at night?,2022
+475,male,female,3.069133705295442e-05,Have you ever had someone confess to you/asking you on a date?,2022
+479,male,female,0.023743583679923255,Is having a small penis really that big of a deal?,2022
+483,male,female,0.00010416095052462931,Do you believe gender is a social construct?,2022
+485,male,female,0.010401577782526946,do you know you zodiac sign?,2022
+490,male,female,2.3532631797514134e-07,Do you dance when listening to music alone?,2022
+491,male,female,0.0008706696039811107,Do you have any tattoos?,2022
+498,male,female,0.0003465776702920484,Do you regularly enjoy true crime stories/documentaries?,2022
+499,male,female,0.04216552167920847,"out of pure curiosity, do you like spicy food ?",2022
+501,male,female,3.780311474538207e-05,Do you ever go commando in public ?,2022
+504,male,female,0.0016176417135995349,Do you feel that you are expected to have children?,2022
+507,male,female,1.0602462888761805e-05,Do you believe in zodiac signs?,2022
+515,male,female,1.5291442430228412e-43,Can you fit your whole hand in a Pringle’s can?,2022
+516,male,female,1.5862780753717045e-19,are you taller than Jesus? (5ft 1 to 5ft 4),2022
+524,male,female,1.5609966666421543e-06,Do you get your eyebrows waxed?,2022
+541,male,female,0.015117814018723323,Is it okay to fart around a significant other pretty early in the relationship?,2022
+544,male,female,0.002204055218200654,"In a ""Titanic"" situation, should women be boarded on life boats before men?",2022
+546,male,female,2.4282028359495397e-49,"Would you be weirded out if you find out your partner was obsessed with you before you were in a relationship, saving and keeping your photos on their phone and whatever?",2022
+547,male,female,7.776543629997647e-85,Do you own a sex toy?,2022
+553,male,female,0.01914181497596024,Is long hair on a drain disgusting?,2022
+557,male,female,0.008170978410657153,Do you buy your parents something on their birthday?,2022
+564,male,female,1.754092192487523e-14,Do you think women are worse drivers than men ?,2022
+568,male,female,3.502205600381388e-05,"Have you ever gotten your eyebrows plucked, trimmed, etc?",2022
+587,male,female,0.01446524538877267,"If being Naked was more common in public spaces, would humans in general, work out more?",2022
+590,male,female,4.817561137272499e-06,Do you ever want to have child(ren)?,2022
+600,male,female,0.008530726433778592,"Ppl that are dating/in a relationship, would u be mad if your partner is struggling with some decision regarding your relationship, and before taking it to you, first ask for a friends advice?",2022
+610,male,female,1.7545052353341286e-05,Do you enjoy shopping for clothes?,2022
+614,male,female,0.0015924434036002377,Does true crime interest you?,2022
+617,male,female,5.2381270327202774e-05,Someone (not a stranger) hits you up out of nowhere and offers to give you head. You down?,2022
+623,male,female,1.17598994880907e-13,Do you find stomach piercing on women attractive?,2022
+624,male,female,0.03742929881485333,"Do you think r/MensRights is hateful, antiwomen, full of incels?",2022
+626,male,female,0.0003406601465979305,Do you want your partner to spank you for disobedience or stepping out of line?,2022
+633,male,female,2.6240275501118517e-05,Do men prefer women who do not wear make-up?,2022
+636,male,female,7.14364972229542e-05,do you want to have biological kids?,2022
+643,male,female,4.202002765804291e-07,Do you have long hair? (Head length or below),2022
+644,male,female,0.028697726060462406,Is it ok to regift an engagement ring?,2022
+645,male,female,1.4439422699722586e-05,Do you use skincare?,2022
+652,male,female,0.0004642998578529117,Do you think girls should be able to wear whatever they want despite it makes other uncomfortable to see them?,2022
+654,male,female,0.040820668718002245,Have you ever used a toilet plunger?,2022
+656,male,female,1.9592164313040342e-06,Do you often wear makeup?,2022
+660,male,female,0.0023954746213555545,do you wash your butthole in the shower?,2022
+671,male,female,0.008529114088967702,Would you consider dating a co-worker?,2022
+674,male,female,6.565234905262745e-19,Do you think it’s okay to make a sexist joke as a man?,2022
+678,male,female,0.0002968213198216776,Do you chew your nails?,2022
+692,male,female,0.011599309113038475,Will you marry a handicapped person with no arms and legs?,2022
+694,male,female,3.1500550902386134e-08,should a man who is accused of sexual assault be presumed innocent until proven guilty?,2022
+698,male,female,6.735363603999534e-24,Would you break up with someone if they started gaining a considerable amount of weight?,2022
+707,male,female,1.341842154731133e-12,are you mentally ill right now?,2022
+710,male,female,0.0075369578576158685,Do you experience post-nut syndrome? (read for explanation),2022
+721,male,female,0.036973328588417294,Do you hug your pillows when you sleep?,2022
+723,male,female,1.0170192626994058e-09,Have you ever gotten sexually harassed or r*aped?,2022
+727,male,female,0.0014001272767443676,Do you wear regular underwear under your swimsuit?,2022
+731,male,female,0.0001186741835172005,Would the world be more or less peaceful if males had their balls chopped off at a certain age? once you're finished with your reproductive cycle? lol. and I'm a guy so not hating on anyone.,2022
+733,male,female,1.282817523858659e-05,Do you play video games regularly?,2022
+734,male,female,0.0018196435243847944,Are you depressed or struggling with a mental illness?,2022
+737,male,female,0.0013053166998551005,Would women do a superior job at managing the world?,2022
+738,male,female,7.300074832332265e-14,Do you use toilet paper after you pee?,2022
+743,male,female,7.677829341521674e-05,If you could permanently reverse your biological sexe with the press of one button. Would you do it?,2022
+744,male,female,0.008134128634188886,Would you bang a Neanderthal?,2022
+745,male,female,0.0004997134525893783,Does the wage gap between men and women exist? (Read before voting),2022
+752,male,female,0.016916619371725266,Can men and women be just friends ?,2022
+757,male,female,0.005714013181683712,Do you have any friends you are not in love with from the gender you are attracted to?,2022
+768,male,female,4.2893872908000135e-06,Can you bench press 135 lbs/60 kg?,2022
+771,male,female,5.145265029690551e-05,Do you like pop music?,2022
+772,male,female,0.013274599390395561,Do you find it rude if someone complains to you that they are fat/larger when they are clearly skinnier than you?,2022
+773,male,female,0.00417862827093909,Do you believe in Astrology/star signs?,2022
+775,male,female,4.9687391072062536e-15,Do women have it worse than men?,2022
+776,male,female,0.0015203599855532438,Have you ever licked/contacted your own genitals using your mouth?,2022
+777,male,female,1.187700653642956e-22,Do you sometimes wish you were the opposite gender?,2022
+786,male,female,0.010753713037892094,Do you believe the criminal justice system treats women with kid gloves?,2022
+791,male,female,0.0016477266100039859,Do you guys wear a shirt under your sweater?,2022
+799,male,female,1.4792828345039147e-07,Have you cried in 2022?,2022
+800,male,female,2.2805293233650275e-05,Do you shave your arms?,2022
+805,male,female,0.024939724845508073,"Is the phrase ""Women☕️"" misogynistic?",2022
+808,male,female,0.002808487881008412,Would you go bald for 100 dollars?,2022
+809,male,female,0.0007629834051089923,Does body count matter?,2022
+810,male,female,4.5668110782331954e-05,Will you win a fight against the average man?,2022
+811,male,female,0.01924461327061959,Do you believe in horoscopes?,2022
+814,male,female,1.220451961526832e-18,Should there be some female only gyms so women can have their own safe space? (Not all gyms will be sex-segregated obviously but just a small few male only and female only gyms),2022
+815,male,female,0.023387145576946808,"If you suddenly changed to your opposite gender, would you become homosexual?",2022
+816,male,female,0.026333788325878835,"According to you, is crying a sign of weakness?",2022
+820,male,female,1.8581606828767301e-09,Would you get castrated (or a hysterectomy for the women) today for 1 million dollars?,2022
+821,male,female,0.03526790632421111,Do you believe Friday 13th is an unlucky day?,2022
+829,male,female,9.411523476381344e-06,I want to prove a point. Do you like kittens?,2022
+830,male,female,1.4249456123422251e-27,"People of Reddit, do you wear makeup?",2022
+835,male,female,2.607268462977144e-05,Are long nails attractive?,2022
+843,male,female,0.0019257441390020255,How many of you own sex toys?,2022
+844,male,female,0.0014449731822895973,Do you wear underwear at home?,2022
+846,male,female,0.007253246732763633,Do you think God exists?,2022
+848,male,female,1.2665613797353307e-06,have you ever had an eating disorder? (any type),2022
+850,male,female,4.962054783755191e-19,"If Any Physically Attractive Person Asked You on a Date, Would you Accept?",2022
+857,male,female,4.790519204152472e-07,have you ever gotten an unsolicited D pic?,2022
+860,male,female,1.0471254480593187e-19,"Has anyone ever said that you were handsome, good looking, pretty, beautiful, gorgeous, etc.?",2022
+880,male,female,0.0014629380621337621,"if you've ever played the Sims in the ""intended"" (as a life sim) do you ever spend time making platonic friends?",2022
+888,male,female,0.0006358921054650689,"Have you ever found ""The one""?",2022
+891,male,female,3.091893742279712e-06,"If I told a girl I would not like to speak for a couple of days, should I text her first afterwards?",2022
+894,male,female,0.04977000949653129,Would you go alone to a concert?,2022
+898,male,female,0.049802515882853005,Do you regularly smoke cigarettes? Regularly being approx. 1 per month or more.,2022
+904,male,female,0.00016893456377963474,"If you found out your partner of 14 years never was in love with you, would you stay in the relationship?",2022
+914,male,female,0.03904937777631647,Do you know someone who has committed suicide?,2022
+919,male,female,1.236774262273837e-07,Is it fatphobic to think overweight people are unnatractive?,2022
+921,male,female,1.2591488664974462e-05,Have you been sexually assaulted?,2022
+922,male,female,0.03421205814181073,Would you want to live in a society where there is zero statistical correlation between genitalia and skirt-wearing?,2022
+924,male,female,5.8358880271204415e-09,Should it be illegal to fire someone because they have an Onlyfans?,2022
+927,male,female,8.490354933860983e-64,Would you circumcise your boy?,2022
+935,male,female,2.8071111072755163e-05,Do you want to get married eventually?,2022
+938,male,female,5.634497106182957e-09,Would you have any problems dating someone who owned an assault rifle?,2022
+939,male,female,0.011260842868286611,Did you ever skip class in school?,2022
+942,male,female,0.003726325457918075,Do you like podcasts?,2022
+946,male,female,0.023650310217869983,Would you be willing to date someone who worked as a prostitute?,2022
+947,male,female,7.207259419713861e-06,Do you think Maternity leave and Paternity leave should be the same length?,2022
+953,male,female,0.0018125756920631037,Do you consider men who eat plant-based meat less manly?,2022
+955,male,female,1.5711379703443054e-11,Has a stranger ever flirted and asked for your number in public?,2022
+958,male,female,0.0005046454440523787,Would you care if pornography was banned?,2022
+963,male,female,5.099832582690458e-09,Are men lonelier than women?,2022
+966,male,female,0.014841689246099413,Have you ever visited a clothing optional beach?,2022
+976,male,female,0.00048646263852601034,Do you know when someone is flirting/is interested in you?,2022
+977,male,female,0.001367051149562194,Are you still a virgin?,2022
+980,male,female,5.900651423143985e-56,Do you find tattoos attractive?,2022
+995,male,female,0.0037451498575055008,"Is ghosting someone, assuming they did nothing wrong, a fair way to reject them?",2022
+1002,male,female,0.012015561778289455,Have you changed so much in looks/personality that some people didnt recognize you before you introduced yourself?,2022
+1019,male,female,0.0015976896397262136,Do you think you’ll live to be 80 years or older?,2022
+1026,male,female,0.0003640403773441747,Do you think child support is a joke?,2022
+1032,male,female,0.0031863587854966367,Should men get paid leave for having blue balls?,2022
+1036,male,female,0.004975618573667651,Do you sometimes mix up left and right?,2022
+1042,male,female,1.767568471484483e-07,Do you have tattoos?,2022
+1047,male,female,9.21863907717893e-09,do you change into your pajamas before going to bed?,2022
+1057,male,female,0.013720034948082927,"If you could choose before your own inception, knowing what you know now would you have chosen to be born?",2022
+1059,male,female,2.7616572520441694e-71,Should there be women's only gyms?,2022
+1064,male,female,0.00016954813332939643,Are you taller than me? (183/6ft),2022
+1076,male,female,5.490086555441147e-05,Is it socially acceptable for men to cry?,2022
+1078,male,female,6.621704333653229e-05,Do you like buffalo chicken?,2022
+1080,male,female,3.318250728176192e-07,Do you think life would be easier if you were the opposite gender?,2022
+1082,male,female,8.220305570627524e-05,Have You Ever Been in a Relationship?,2022
+1092,male,female,4.49369394004374e-06,Is calling a Woman ugly bodyshaming them?,2022
+1097,male,female,0.011154211229284108,Is it wrong to give a girl compliments on her body?,2022
+1098,male,female,0.014120395902390856,Do you play videogames?,2022
+1106,male,female,0.03377944727923105,Are moustaches attractive on men?,2022
+1118,male,female,0.00015888233580172822,Do you cry often (at least 2-3 times a week)?,2022
+1120,male,female,2.7660442759335836e-15,do you wear makeup ?,2022
+1133,male,female,0.005746790093236212,Did you ever feel sexually attracted to someone with the same sex as you?,2022
+1139,male,female,0.00010667172304989521,would you f*** a gender swapped clone of yourself?,2022
+1144,male,female,2.2293366777172787e-10,do you use conditioner?,2022
+1151,male,female,0.018122126422214793,Cross your heart and hope to die.. Would you cheat with a 10 if there was 0% chance of anybody ever knowing?,2022
+1153,male,female,0.024669393924891075,Do you think its okay to make a sexist joke as a man?,2022
+1162,male,female,0.0008618500421526454,Would you call yourself cute?,2022
+1164,male,female,8.553921791265219e-09,Could you do 3 pullups right now?,2022
+1166,male,female,0.03438863433189899,"If you were home alone and it wasn't too cold in your house, would you walk around naked? if so, why?",2022
+1172,male,female,0.02143331466737873,Do you use hair shampoo?,2022
+1174,male,female,0.01585290494239454,Do you have someone to talk to when you feel bad?,2022
+1178,male,female,2.4108273535126933e-07,Would you become a very well known pornstar if it meant you will be earning 500k per year?,2022
+1180,male,female,1.7236681673403964e-37,"would you agree to pay extra taxes to make feminine products free ? (tampons, pads)",2022
+1185,male,female,1.617507832808989e-15,do you like it when strangers give you a compliment?,2022
+1188,male,female,0.017053919603468016,Have you ever cheated on a s/o?,2022
+1189,male,female,0.0008178081189169565,"If your country was being invaded, would you take up arms to defend it?",2022
+1191,male,female,0.00831450183723086,Were you molested as a child?,2022
+1192,male,female,0.006646317186994974,Would you join the united state military?,2022
+1195,male,female,0.007922590442570255,Have you played any Animal Crossing game?,2022
+1197,male,female,3.0199107397155717e-25,Do you want to have kids in the future?,2022
+1198,male,female,0.008387353761600725,"Do you trust in the ""Pull-Out"" Method?",2022
+1199,male,female,0.00020831783268859534,Do You Think That women (On Average) Are More Intelligent Than men?,2022
+1200,male,female,8.234389266028333e-05,Do you think it’s okay to date your friend’s ex ?,2022
+1202,male,female,1.8425916669523776e-06,Do you believe the friendzone exists?,2022
+1203,male,female,0.0010784514913428293,Do you own a Nintendo Switch?,2022
+1209,male,female,0.0016100560432758767,"Do you know about the ""Pink Tax""?",2022
+1214,male,female,0.019514429304035043,"Are the colors in the picture ""different colors""?",2022
+1219,male,female,6.025296730472902e-07,Are you attracted to tattoos?,2022
+1220,male,female,0.0089649247019023,I'm 16 Ariana Grande is 28. She's been my crush for years. if we dated would you snitch?,2022
+1228,male,female,0.00011649217629693043,Have you ever felt attracted to someone of the same sex?,2022
+1229,male,female,0.019519150462769207,do you consider yourself to be a feminist??,2022
+1234,male,female,7.117721107672922e-98,Should men painting nails be normalised?,2022
+1236,male,female,0.0027102143458193643,Should women shave their body hair?,2022
+1242,male,female,8.599944349692726e-07,Would you feel safer if cameras were installed absolutely everywhere in public spaces?,2022
+1243,male,female,2.2207289870653162e-05,Have you ever soberly kissed a member of the same sex on the lips (family doesn't count)?,2022
+1249,male,female,0.017704651261272325,Do you believe there is a pay gap between genders?,2022
+1254,male,female,1.4405877488105757e-11,Do you wear perfume?,2022
+1257,male,female,1.8487984802501423e-12,Have you sucked dick?,2022
+1264,male,female,7.627895172460158e-07,Do you wear make-up?,2022
+1265,male,female,6.642819248305436e-11,Do you sit with your legs crossed?,2022
+1268,male,female,0.00011753667337499095,Should plus size clothes cost more since it takes more material to make?,2022
+1270,male,female,0.0037961308058988975,Should men wearing feminine clothing be normalized?,2022
+1271,male,female,0.006136444616480634,Do you already have names planned out for your future children?,2022
+1272,male,female,7.532140773918845e-08,Does your country have a law that can oblige YOU to do military service in case of defense?,2022
+1279,male,female,0.023128023209272083,"Can you tie a tie, without help?",2022
+1290,male,female,0.0068783860415742625,Is shyness an attractive/cute character trait to you?,2022
+1292,male,female,0.04440852747000802,Have you ever received money for sexual acts?,2022
+1293,male,female,0.0018634600413047495,Could you run a 5k in under 25 minutes?,2022
+1296,male,female,2.963718325819063e-10,Have you been sexually harassed?,2022
+1301,male,female,0.00933793967370296,Is it wrong for women to poop?,2022
+1305,male,female,1.4105241613663373e-09,"In general, would you feel safe walking alone in an urban area at night?",2022
+1310,male,female,9.721796348188261e-10,Are you straight/heterosexual and cis*?,2022
+1318,male,female,3.1272925917036786e-17,Have you had your menstrual cycle this month?,2022
+1323,male,female,3.3484241041749196e-05,Do you consider yourself a K-pop fan?,2022
+1326,male,female,0.016668400987531536,"Do you work out, I don’t mean an occasional jog but I mean actually work out?",2022
+1337,male,female,0.00015772996676678206,"Are people right to claim a wife is, “deadweight”, if she works no jobs to her husband’s 2, but does basically everything around the house?",2022
+1344,male,female,1.6926710555963074e-07,Do you close your blinds as soon as the sun goes down and it’s dark outside?,2022
+1347,male,female,0.01937923809453479,Should men pay the full bill for first dates?,2022
+1363,male,female,0.008043318318815487,Do you think it’s okay to pee in a public park late at night?,2022
+1367,male,female,1.0094313308908152e-09,Is the expression “man up” sexist?,2022
+1371,male,female,9.885448216829641e-08,Do you regularly wear pyjamas?,2022
+1376,male,female,0.026486782179379283,Could you live without sex?,2022
+1378,male,female,0.04375432202618173,do you think women are generally smarter?,2022
+1380,male,female,9.54334594544849e-130,Should there be a seperate men and women gym?,2022
+1382,male,female,3.109867857769709e-06,Are women still oppressed?,2022
+1386,male,female,4.597362844891646e-29,Have you ever in your life felt “skinny enough?”,2022
+1388,male,female,0.019256050313509545,"If one of the parents gains sole custody of their child, should the other parent still have to pay for the child?",2022
+1398,male,female,1.8560615536632494e-22,Have you ever taken anyones virginity?,2022
+1399,male,female,0.00010609093393380453,Have you ever been sexually assaulted?,2022
+1400,male,female,2.7249822520622406e-06,Do you feel genuine affection for all or some of your stuffed animals?,2022
+1407,male,female,1.0680839788913115e-05,Do you think social media censor to many opinions in the name of safety and safe spaces?,2022
+1412,male,female,0.013394751081119026,"People, are you straight?",2022
+1425,male,female,0.04390506641305905,Can you withstand the spice level of Flamin’ hot Cheetos for the whole bag?,2022
+1428,male,female,8.965256361725329e-06,Do you find forming friendships with the opposite gender a bit harder than forming friendships with people of your gender?,2022
+1429,male,female,0.0366746854486199,Are you afraid of the opposite gender?,2022
+1430,male,female,7.053924460017049e-05,Have you ever fingered your own butthole?,2022
+1431,male,female,0.001181913089044191,Are there ANY circumstances where cheating would be considered okay?,2022
+1435,male,female,3.7397940467232505e-18,(Better version of question asked earlier) Should women be drafted assuming theres no way out of it?,2022
+1439,male,female,0.04177157877918169,Do you like incense?,2022
+1447,male,female,1.590574819074441e-51,Have you ever own a diary?,2022
+1458,male,female,1.7453275366001649e-07,"If women could reproduce with each other, would they be happier in a world without men?",2022
+1463,male,female,0.04065167709694383,Do you watch porn? (interested in male Vs female data).,2022
+1480,male,female,7.888211890543192e-10,Do you become a lil wary or cautious if a woman says she's a feminist?,2022
+1494,male,female,5.582600623153215e-05,Are muscular women attractive?,2022
+1499,male,female,1.641480014530055e-92,Do Women have it easier in finding love/sex?,2022
+1503,male,female,6.907085027555047e-07,Can you do one pull-up?,2022
+1505,male,female,0.0012524290756234242,Do you own and regularly use a sex toy on yourself?,2022
+1511,male,female,7.183006559516126e-07,Have you ever been in the opposite genders bathroom?,2022
+1513,male,female,0.00026399348425651566,Do you use conditioner?,2022
+1514,male,female,0.01199400604629769,Have you ever given your significant other flowers?,2022
+1515,male,female,6.757962887918672e-114,Have you ever experienced sexual harassment before?,2022
+1522,male,female,0.04969109786762276,Are you 6’5 (195.6 cm) or taller?,2022
+1528,male,female,0.0002999003990259939,Can fat guys be cute?,2022
+1529,male,female,0.004784451963876706,Is wearing the same clothes everyday embarrassing?,2022
+1531,male,female,1.7652805670534317e-11,Is male privilege real?,2022
+1532,male,female,0.0014623544148670373,Do you know what an orgasm feels like?,2022
+1534,male,female,0.02777098724440301,"Do you often feel embarrassed by negative stereotypes about your gender that have some truth, and insecure about sometimes living up to them?",2022
+1540,male,female,1.0012299777990556e-06,Can you do a pull up?,2022
+1542,male,female,0.01076012823323559,Do you believe some people are born in wrong body (speaking of gender)?,2022
+1545,male,female,7.295299496742737e-10,Do you know on which day Valentine's Day is?,2022
+1547,male,female,4.4344014070300445e-77,Have you ever been told to respect the other gender? (By your parents),2022
+1548,male,female,8.80946569720156e-06,Would you take your spouse's last name?,2022
+1549,male,female,4.83453569797487e-140,Have you ever been attracted to of the same gender as you?,2022
+1556,male,female,3.1748194722730288e-06,Have you been diagnosed with a mental illness/disorder?,2022
+1561,male,female,0.025650540998137513,should men shave their body hair?,2022
+1566,male,female,8.286718622887923e-65,Do you have a mental illness?,2022
+1569,male,female,0.0027391496443568324,If the world was ending would you show me your boobs?,2022
+1570,male,female,7.624749787441334e-05,Has anyone ever admitted to liking/having a crush on you?,2022
+1573,male,female,0.0002603797289672487,Do you feel dating becomes a competition among people of the same gender as you?,2022
+1576,male,female,6.33114910035629e-57,Have you ever been catcalled in public?,2022
+1583,male,female,0.0019322708668055026,Do you ever weigh yourself before and after monster shits?,2022
+1584,male,female,0.0003412066134795643,"does ""your old haircut looked better"" sound offensive?",2022
+1591,male,female,0.010268094837938151,Do you consider yourself overweight?,2022
+1593,male,female,0.0005494066764711834,"When you jump into a pool, do you plug your nose?",2022
+1597,male,female,0.0031909639670376347,Do you deal with nightly depression?,2022
+1605,male,female,3.888183781185788e-05,Should we defund the police?,2022
+1612,male,female,0.002891467947936076,Are you afraid of bugs?,2022
+1614,male,female,2.1442192216275537e-16,Do you wash your hands after just taking a piss?,2022
+1618,male,female,0.008018619617413859,Do you mind being friends with someone fat?,2022
+1622,male,female,1.6108447311196898e-14,Do you sleep with any stuffed animals?,2022
+1625,male,female,0.048217411277609576,Do you enjoy Rule 34 content?,2022
+1626,male,female,4.140944748932781e-09,Have you peed outside within recent memory?,2022
+1630,male,female,0.04159488548920726,Have you ever been called out for dress code (or for your clothes in general)?,2022
+1649,male,female,0.011444561279759742,Would you ever let someone photograph you nude?,2022
+1651,male,female,0.03993684087784909,Have you ever faked an orgasm?,2022
+1664,male,female,4.976568605472019e-28,Were you sexually harassed in middle school or high school (in a school setting prior to university/college)?,2022
+1669,male,female,0.035190862456701284,"Do you think you could win a boxing fight against Mike Tyson, but he’s deaf and blind?",2022
+1670,male,female,0.007311263093618866,Do you believe that there is a someone for everyone?,2022
+1672,male,female,0.005608196418976554,Do you use hair conditioner?,2022
+1673,male,female,1.0810881580028575e-30,Do you wear a face mask in public if you don’t legally have to?,2022
+1675,male,female,4.611254407762191e-09,Would you switch your gender if you could?,2022
+1680,male,female,0.03437795870043748,Do you ever find rape jokes funny?,2022
+1695,male,female,2.9106475849922015e-16,Can you wrap your thumb and middle finger around your wrist until they touch?,2022
+1704,male,female,1.2024127141689211e-05,"Is it a red flag if someone says ""man and female"" or ""men and females"" in the same sentence/context?",2022
+1705,male,female,3.119591579726678e-05,"Do you believe that Females have it easier when it comes to streaming? (Twitch, etc.)",2022
+1722,male,female,6.426009188062996e-06,are you currently a virgin?,2022
+1726,male,female,0.020966816603448346,Is it okay for an adult to raise their voice while talking to a child?,2022
+1731,male,female,0.025640169448674064,Were you ever dress coded in school?,2022
+1732,male,female,0.0025493410344023626,Should there be men's only gym?,2022
+1733,male,female,2.4599098837992395e-85,"Straight people, would you kiss someone of the same gender to piss off a homophobe?",2022
+1740,male,female,0.03989228741784556,Is outer beauty important?,2022
+1741,male,female,9.584828664672664e-19,Do you think Womens period products should be free?,2022
+1743,male,female,0.0009137676005212475,Do you feel safe walking at night in your area?,2022
+1745,male,female,0.006390914860074052,If a woman has a baby and doesn't tell the father or doesn't attempt to identify the father should it be considered kidnapping?,2022
+1747,male,female,0.0087725732269733,Do you find facial scars attractive??,2022
+1748,male,female,1.0208934162650833e-07,Would you ever hire a Prostitute?,2022
+1750,male,female,0.017884075234934155,Do you still sleep with a stuffed animal in adulthood?,2022
+1759,male,female,0.0208937612265781,Have you ever shoplifted?,2022
+1763,male,female,0.019679979139992414,"Do you wish it was always totally normal and acceptable for both genders to be shirtless anytime, anywhere & for it not to be sexualized?",2022
+1768,male,female,2.310197018491197e-30,Would you shave your head bald for USD$5000?,2022
+1769,male,female,0.010974377751717286,Do you think saying men can't hit women is sexist?,2022
+1771,male,female,0.02844371092930905,Have you ever NOT flushed the toilet (after going #2) in a public restroom?,2022
+1775,male,female,7.101786361796704e-37,Should rapid weight gain be considered grounds for a divorce?,2022
+1776,male,female,0.02195336365135805,Would you agree to shortening your lifespan by 10 years (let's say from 75 to 65) in exchange for your dream body?,2022
+1778,male,female,2.8859651292289593e-08,"If your partner was sexually assaulted and it resulted in a child they decided to raise, would you stay with them?",2022
+1779,male,female,0.039125601102415926,Do you shave your butt?,2022
+1784,male,female,0.0018323912549523744,Do you think that is normal for a 18 y/o man to cry in public?,2022
+1792,male,female,4.9094857719698714e-05,Do you enjoy learning a new language?,2022
+1797,male,female,0.04250612596198624,"You go to school one day, thinking everything is normal, but once you go, you realize that everyone, even the teachers, is naked. This wasn’t planned, and you showed up to school in sweats. Are you embarrassed to be the only on is clothes?",2022
+1800,male,female,0.006939018229686924,Do you think using hand sanitizer instead of physically washing your hands does the same thing?,2022
+1802,male,female,0.00011972808255433349,Do you use Pinterest? (social media),2022
+2530,male,female,1.2327480896697654e-05,Do you use toys when you mästürbäte?,2021
+2531,male,female,1.0150734200858153e-170,Do you truly believe that things would be any better if women ran the world?,2021
+2541,male,female,0.002434081171083046,Do you cuddle with your friends?,2021
+2549,male,female,7.496698148303961e-57,Are your ears pierced?,2021
+2552,male,female,0.011005543646706065,Are you currently married to someone?,2021
+2553,male,female,0.003778449870268528,"If your partner proposes with an ugly ring, should you let them know it’s ugly?",2021
+2563,male,female,0.037291954891674674,Do you have a sex toy?,2021
+2566,male,female,3.820288701559192e-05,Do you know what discharge is?,2021
+2573,male,female,0.012458184491664609,Do you have a skincare routine?,2021
+2578,male,female,1.4596566938903574e-15,Do you think you are physically stronger than your parent of the same gender as you?,2021
+2588,male,female,0.0001089396761530887,If you're unmarried do you want to change your last name to your partners when/if you get married?,2021
+2591,male,female,0.0028114489799734685,Have you ever been sexually assaulted?,2021
+2595,male,female,0.0049320496786200985,Have you ever been hit on by a member of the same sex?,2021
+2598,male,female,0.01995197833397327,"For men, is it ok to use a razor to shave your face, with the same razor that you shave your genitals with?",2021
+2599,male,female,0.0007844618060934197,Would you be ok if someone asked you out at the gym?,2021
+2607,male,female,0.0002560355631000877,Would you get angry if you discovered your partner masturbates and watches porn?,2021
+2617,male,female,8.077193169558466e-15,Do you watch pornographic content ?,2021
+2624,male,female,4.254172427862117e-06,Have you ever experienced sexual harassment?,2021
+2633,male,female,0.00040126841943512106,Would you sleep with Keanu Reeves?,2021
+2643,male,female,0.0006385519282154964,Are you happy in life?,2021
+2651,male,female,2.8785804067279455e-13,Do you have any tattoos?,2021
+2657,male,female,5.535530178907849e-12,Do you shave your armpits?,2021
+2658,male,female,1.0529563866690602e-05,Does your hand fit into a Pringles can?,2021
+2663,male,female,0.01704800293882426,Can you reach the bottom of a Pringles can?,2021
+2665,male,female,3.831859817616038e-06,Would you want to wear the opposite sex's clothes if they were widely available in cuts that fit you? (women's clothes in male cuts and men's clothes in female cuts),2021
+2667,male,female,0.0015331286777252092,"Do you ""do"" you're eyebrows?",2021
+2670,male,female,0.00011932633072294839,Are women just as horny as men?,2021
+2676,male,female,0.004630954905371108,Do you do your hair in the morning?,2021
+2681,male,female,0.007535416093803711,"Gamers, have you played a dating game?",2021
+2683,male,female,0.00017515759759963246,Do you believe in zodiac signs?,2021
+2685,male,female,1.0614090858026157e-19,Do you consider dirty jokes that make you uncomfortable to be sexual harrassment?,2021
+2691,male,female,0.04007746410048593,Would you feel comfortable using the bathroom if your partner is in the room?,2021
+2695,male,female,3.4842736927628925e-16,Do you feel safe while walking alone in the streets at night?,2021
+2704,male,female,0.010335979117798499,Do you have a foot fetish?,2021
+2705,male,female,1.2996525805186878e-06,Do you agree with the idea that most men don't see women as people/human?,2021
+2712,male,female,0.0009975359150788735,Would you think you are generally happy most days the past 5 years?,2021
+2716,male,female,0.008887477617745006,Do you like yourself?,2021
+2723,male,female,0.019007085509092005,Do you get your eyebrows waxed?,2021
+2747,male,female,0.00409183889953887,Do you think waxing should be mandatory for females?,2021
+2752,male,female,1.7975143708913958e-32,Have you ever experienced s*xism,2021
+2754,male,female,0.006376190331102461,Do you plan on having children one day?,2021
+2757,male,female,0.0033871202495644034,Do you find fat women attractive?,2021
+2761,male,female,0.005020543250527586,Do you enjoy anal sex?,2021
+2773,male,female,0.046184269017670955,Have you ever masturbated?,2021
+2776,male,female,0.03605589826229838,"Straight people, have you ever engaged in non-straight sexual acts?",2021
+2777,male,female,0.03409350195557616,Do you find glasses attractive?,2021
+2779,male,female,3.915813416128632e-05,Do you have armpit hair?,2021
+2785,male,female,0.00013008711388905818,Have you been affected by toxic beauty standards?,2021
+2787,male,female,8.462722001787945e-13,Do you like the gender that you are?,2021
+2789,male,female,0.004419204958311804,Have you ever jerked someone off before?,2021
+2795,male,female,5.468020187172689e-05,Have you ever been in a serious relationship?,2021
+2797,male,female,0.015087354297545397,Do/would you wear boots in the summer?,2021
+2803,male,female,0.037663704893463684,Do you think women who dedicate their entire reddit account hating and constantly posting about îñ¢ēls are equivalent of men who dedicate their entire reddit account being an îñ¢ēl?,2021
+2811,male,female,0.03656401748845901,Do you like shopping?,2021
+2832,male,female,0.010111646661273536,Do you care about your hair going gray?,2021
+2834,male,female,1.6280365731680665e-05,Should men shave their legs?,2021
+2842,male,female,0.0031335052395005973,Have you ever been deep in love with someone?,2021
+2843,male,female,0.005076796823167397,Do you wash your hands every time after you pee? Be completely honest,2021
+2844,male,female,0.0015584355745531535,"If you got cat-called by a random group of people, do you think you would be offended?",2021
+2845,male,female,7.559241116200739e-05,Do you experience “hairbrush lint”?,2021
+2848,male,female,0.0456054102035222,"When under pressure, if someone tells you to ""calm down"", do you actually calm down?",2021
+2850,male,female,5.047929615182231e-10,Have you ever been catcalled?,2021
+2857,male,female,9.451183118919039e-13,Do you find it offensive when someone refers to you as either male or female in an informal setting?,2021
+2862,male,female,1.2475566736866004e-07,"It's past pandemic and you went out to a bar by yourself. You're dancing and having fun when someone you think is hot starts hitting on you. Fast forward to 2am and the bar is closing soon, this person seems both nice and hot, and invites you over at their place. Do you go?",2021
+2867,male,female,0.00038886923520344246,Is sitting on the toilet to pee a feminine thing?,2021
+2874,male,female,4.3576300624964883e-13,Is it ok for guys to wear nail polish?,2021
+2884,male,female,1.320190225383669e-05,Are you afraid of walking alone at night?,2021
+2885,male,female,0.0032686650512521458,Do you like being the big spoon (regardless of if you prefer being the small spoon)?,2021
+2890,male,female,2.0694287812500716e-05,Do you think society treats women as expendable/disposable?,2021
+2895,male,female,0.021094156897706388,Are you happy with your physical appearance?,2021
+2897,male,female,0.010674336638413592,Do you find tattoos on women sexy?,2021
+2898,male,female,0.02848968063054833,Ever seen a girl so pretty / attractive you felt like you're going insane?,2021
+2908,male,female,2.4636565568228934e-118,do you get scared when walking alone at night?,2021
+2913,male,female,3.594700903350013e-17,Do you read romance books?,2021
+2914,male,female,0.04865675473874126,Is the wage gap real?,2021
+2918,male,female,0.032655427094818765,Do you think we should normalise men owning sex bots/ dolls the same way we have normalised it for women to own various amounts of dildos or no?,2021
+2920,male,female,3.08175404134939e-23,Have you ever contemplated suicide?,2021
+2923,male,female,6.011555973311513e-39,Do you think life would have been easier for you if you were of opposite sex?,2021
+2934,male,female,0.029645449264670373,Do you prefer a sweetheart who is a bit chubby?,2021
+2938,male,female,0.002980804430951914,Do you concider yourself a feminist/support feminism (that doesn't mean you support every feminist or every feminist movement)?,2021
+2955,male,female,2.9864488422968315e-10,Have you ever fully read a fan fiction story?,2021
+2961,male,female,0.005176861518329388,Have you ever cuddle with your friend?,2021
+2971,male,female,0.0018196783063909184,Do you own a pair of red shoes?,2021
+2980,male,female,0.0017705302941496144,Do you have food allergies?,2021
+2984,male,female,0.0005543956888975118,Have you sucked a dick?,2021
+2985,male,female,0.0039012558605569553,Is appearance good looks and attractiveness important when seeking out a partner?,2021
+2987,male,female,0.04408240347431746,Do you look behind yourself when walking in a city?,2021
+2989,male,female,2.092783136085e-20,Are men generally funnier than women?,2021
+2991,male,female,0.022880435044566636,Do you go out of your way to buy organic food?,2021
+2992,male,female,0.0031012815439571038,"Have you ever bleached, colored, or highlighted your hair?",2021
+3000,male,female,0.022677456551888325,Have you ever had sex in a space not owned by you or your partner?,2021
+3012,male,female,0.032114846794757276,Are you LGBTQ?,2021
+3020,male,female,1.9289468992765954e-10,Do you know how to change a tire?,2021
+3021,male,female,0.0005277064597541789,"Do you care about ""special days"" like today's International Women's Day?",2021
+3024,male,female,5.327763215884604e-06,Do you write / has ever written a journal or diary?,2021
+3034,male,female,0.02140050230842772,Non-Asian people: can you cook Asian food?,2021
+3035,male,female,0.00016510725036796811,Is crossing your legs feminine ?,2021
+3041,male,female,1.643863328964268e-06,Are you part of the LGBTQ+ Community?,2021
+3043,male,female,1.639437839952048e-33,Do you moan when you masturbate?,2021
+3052,male,female,0.007248179324215629,Do you suck at remembering birthdays?,2021
+3056,male,female,0.0433761524774601,Should FDS be removed from reddit?,2021
+3063,male,female,0.012239901166214073,Have you ever cheated on someone?,2021
+3064,male,female,0.0017163000190988883,Would you date someone who is bisexual?,2021
+3069,male,female,0.04117454901182208,"In German and Spanish the language is being changed, to be more inclusive. Would you be in favor of changing your language for more diversity and inclusivity?",2021
+3079,male,female,1.886548879818061e-07,Is it ok for guys to wear earrings?,2021
+3090,male,female,0.008141850348990365,Bad mood in the morning?,2021
+3095,male,female,1.7840141164919126e-06,Your boss (opposite sex) offers you a 5% raise if you suck his dick/eat her out. Do you take it?,2021
+3099,male,female,0.0013603867300042707,"Is it strange (not just uncommon or unusual, but legitimately weird in a bad way) for a guy in the US to want to stay single for his entire life, never getting married and never having kids?",2021
+3103,male,female,0.04586170793277413,Do you support a 9 pm curfew for men?,2021
+3106,male,female,2.3521865854095586e-05,Would you like marrying an house- wife/husband?,2021
+3108,male,female,0.019408985832287368,Do you think there will ever be a matriarchal society in a large scale?,2021
+3120,male,female,0.0001316332024292344,Do you use hair conditioner?,2021
+3123,male,female,0.011141689972028551,Do you wear Nike crew socks?,2021
+3142,male,female,0.04430176519264872,"Should things which are immoral, also be illegal?",2021
+3145,male,female,0.0002906973066075025,Do you think that a girl groping/sexually assaulting a guy is just as bad as a guy doing the same to a girl?,2021
+3154,male,female,0.02230477751170168,Have you ever declined a date with someone because you knew they were to good for you?,2021
+3163,male,female,3.378632266683046e-07,Does being raped count as losing your virginity?,2021
+3169,male,female,0.0010082108374510812,Do you think matriarchy would be as bad or worse for men as patriarchy is for women?,2021
+3198,male,female,0.00011036988469437393,Do you think divorce laws are biased in women’s favor and against men? Should that change?,2021
+3201,male,female,0.041440804566074435,Is it ok for a man to hit a woman if a woman can hit a man?,2021
+3206,male,female,0.006354613390206804,Ever sucked a woman/man?,2021
+3211,male,female,0.04656944018462653,Have you ever sent nudes of yourself (consensually)?,2021
+3213,male,female,4.374565950401769e-06,Do you wear glasses?,2021
+3215,male,female,1.2126417912230235e-11,Do you chew tobacco,2021
+3216,male,female,2.1594052942748014e-17,Is your hair long enough for you to be able to bite it?,2021
+3220,male,female,0.00812929557430945,Is parental approval is important for you to decide if you should continue your relationship?,2021
+3224,male,female,0.0029129327810556165,"Is it wrong / dehumanising / insulting or derogatory to refer to men as ""male""?",2021
+3226,male,female,2.3534957222467523e-07,"If women were stronger then men, then do you think there would be as much FEMALE on MALE crime as there is MALE on FEMALE crime today?",2021
+3227,male,female,0.0008400130437217002,Do you believe women in the West are oppressed?,2021
+3229,male,female,0.002392745487435345,"Cis people, if you suddenly transformed into the opposite gender and couldn’t change back would you be upset?",2021
+3231,male,female,0.009476372444177535,Have you been diagnosed with any psychological disease?,2021
+3235,male,female,0.0003148783650939689,Have you ever bullied someone?,2021
+3245,male,female,5.3529833061855666e-05,Can you bend over and touch your toes?,2021
+3248,male,female,0.04776802479039766,"Do you think words like “dude”, “bro”, “you guys” have become gender neutral?",2021
+3257,male,female,0.0006155052772136425,Have you ever rejected someone who had romantic feelings for you?,2021
+3258,male,female,0.000373077516623153,Do you have a driving license or no?,2021
+3273,male,female,0.008833643954689562,Do you think you would enjoy life more living your life as the opposite gender as you are right now?,2021
+3275,male,female,0.0001739837482612809,Do you have a New Year's Resolution?,2021
+3277,male,female,0.023636772857019202,Does direct eye contact make you uncomfortable?,2021
+3281,male,female,0.004759673866354675,Have you ever had a crush on an ugly person?,2021
+3283,male,female,3.3589191050162773e-06,Have you cried to a movie/song?,2021
+3288,male,female,6.505972264991644e-58,Would you be willing to start a new relationship with a porn addict/frequent porn watcher who is otherwise a compatible partner?,2021
+3293,male,female,0.00017336679656232594,"Is it sexist to call an adult woman ""a girl""?",2021
+3295,male,female,0.0007707211944780373,Have you ever cheated on your partner?,2021
+3297,male,female,0.024407729202124515,Have you gotten surgery?,2021
+3307,male,female,3.985876743642687e-05,Can you suck your own nipples?,2021
+3310,male,female,0.0003263179378114563,Have you ever been approached by someone randomly of the opposite gender? (They are interested in you),2021
+3317,male,female,0.027564297486268787,Do you like how your chest looks?,2021
+3320,male,female,0.0001982900006869156,Do you like the concept of working (career/job) to earn a living?,2021
+3329,male,female,0.0007905131652087109,Do you consider yourself a ‘History Buff’?,2021
+3331,male,female,0.014805101501729435,Do you own any kind of sex toy?,2021
+3332,male,female,0.013545691097081397,Would you be willing to change your last name if you got married?,2021
+3336,male,female,0.0005220837736877344,Have you been sexually harassed/assaulted before?,2021
+3344,male,female,0.018006189069768207,Do you do journaling?,2021
+3348,male,female,0.014567899665982039,Is it unfair and insecure for men to dismiss or not consider women with a promiscuous past when looking for a serious relationship?,2021
+3355,male,female,0.04095334483257156,Have you ever felt like a pervert?,2021
+3356,male,female,0.001824467924511454,"Should a man be allowed to not let a woman, who he impregnated, to have an abortion?",2021
+3369,male,female,3.6701703429585305e-05,Do you shave your private parts?,2021
+3374,male,female,0.010871518684027037,Do you see tattoos can make your sex partner more sexually attractive or arousing?,2021
+3376,male,female,2.964759169783789e-11,Do you know what a period panty is?,2021
+3381,male,female,2.7283111706303925e-10,Would you date a cop?,2021
+3382,male,female,1.5186206861758442e-09,Do you use Pinterest?,2021
+3387,male,female,0.0018834505323693815,Do you have a skin care routine?,2021
+3416,male,female,0.0003603394867423182,Can you masturbate to inanimate nsfw pictures?,2021
+3418,male,female,0.04607234662784929,Have you had cavity before?,2021
+3420,male,female,0.018130121323765142,Have you ever gotten a wedgie?,2021
+3425,male,female,0.00698072670356933,Is it ok to say no to watching Christmas movies with your girlfriend?,2021
+3439,male,female,9.622298014702038e-09,Do you find people with musical talent attractive?,2021
+3452,male,female,0.000950793825770856,Do you know what discharge from a female body is?,2021
+3457,male,female,3.020614917036475e-05,Do women wearing deliberately sexualising clothing want to be looked at?,2021
+3462,male,female,0.024372164335783614,"Considering all aspects of civil modern life in a civil modern society, are women just as strong and capable as men?",2021

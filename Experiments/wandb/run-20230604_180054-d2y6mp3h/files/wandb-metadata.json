@@ -1,0 +1,49 @@
+{
+    "os": "Windows-10-10.0.19045-SP0",
+    "python": "3.9.5",
+    "heartbeatAt": "2023-06-04T16:00:56.028122",
+    "startedAt": "2023-06-04T16:00:54.537946",
+    "docker": null,
+    "cuda": null,
+    "args": null,
+    "state": "running",
+    "program": "<python with no main file>",
+    "git": {
+        "remote": "https://github.com/QuentinTilman/PollBERT-paper.git",
+        "commit": "86ac16e8dc882e255b1d8d90e19b92a76e2f8d7d"
+    },
+    "email": "quentintilman@hotmail.com",
+    "root": "d:/OneDrive/User/Documents/School/KU_Leuven/Master/2023/PollBERT-paper",
+    "host": "ANONYMOUS",
+    "username": "Quent",
+    "executable": "c:\\Users\\Quent\\AppData\\Local\\Programs\\Python\\Python39\\python.exe",
+    "cpu_count": 4,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 2592.0,
+        "min": 0.0,
+        "max": 2592.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2592.0,
+            "min": 0.0,
+            "max": 2592.0
+        }
+    ],
+    "disk": {
+        "total": 931.5117149353027,
+        "used": 300.97813415527344
+    },
+    "gpu": "NVIDIA GeForce GTX 960M",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce GTX 960M",
+            "memory_total": 4294967296
+        }
+    ],
+    "memory": {
+        "total": 23.900798797607422
+    }
+}
